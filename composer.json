@@ -1,0 +1,11 @@
+{
+    "name": "admin/composition",
+    "description": "Chemical composition resolution",
+    "authors": [
+        {
+            "name": "didierp",
+            "email": "didier.putman@gmail.com"
+        }
+    ],
+    "require": {}
+}
