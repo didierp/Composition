@@ -3,7 +3,7 @@
 <head>
     <title>Chemical composition resolution</title>
     <link rel="stylesheet" href="style.css" />
-    <script type="application/javascript" src="bower_components/jquery/jquery.min.js"></script>
+    <script type="application/javascript" src="vendor/components/jquery/jquery.min.js"></script>
 </head>
 <body>
 <table width="100%">

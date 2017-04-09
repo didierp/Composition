@@ -25,7 +25,7 @@ function computeClick() {
 			printInsaturation(insaturation);
 			printCount(count);
 			printTime(ms);
-			var composition = { }; 
+			var composition = {}; 
 			printContent(composition);
 		},
 		error:function(data) {
@@ -49,8 +49,8 @@ function printTime(value) {
 	$('div.ms').show();
 	$('span#ms').text(value);
 }
-function printContent(data) {
+function printContent(value) {
 	$('div.content').show();
-	$('span#ms').text(value);
+	$('span#content').text(value);
 }
 
