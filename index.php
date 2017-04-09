@@ -20,14 +20,16 @@
         </td>
         <td width="50%">
             <div class="result">
-                <div class="search" style="display: none;"><span>Recherche en cours...</span></div>
-                <div class="count" style="display: none;"><span>Nombre de solution trouv&eacute;e : </span><span id="count"></span></div>
-                <div class="insaturation" style="display: none;"><span>Nombre d&apos;insaturation : </span><span id="insaturation"></span></div>
-                <div class="ms" style="display: none;"><span>Temps d&apos;ex&eacute;cution (s) : </span><span id="ms"></span></div>
+                <div class="search" style="display: none;"><span>Search...</span></div>
+                <div class="possible" style="display: none;"><span>Possible: </span><span id="possible"></span></div>
+                <div class="count" style="display: none;"><span>Finded solutions: </span><span id="count"></span></div>
+                <div class="insaturation" style="display: none;"><span>Insaturations: </span><span id="insaturation"></span></div>
+                <div class="ms" style="display: none;"><span>Execution time: </span><span id="ms"></span></div>
                 <br/>
             </div>
         </td>
     </tr>
+    <tr><td><div id="content"><div></td></tr>
 </table>
 <script type="application/javascript" src="resolve.js"></script>
 </body>

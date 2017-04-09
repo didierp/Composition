@@ -1,5 +1,5 @@
 # Composition
-Chemical composition resolution
+Composition resolution
 
 <pre>
   git clone https://github.com/didierp/Composition.git
